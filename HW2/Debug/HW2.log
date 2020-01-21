@@ -1,0 +1,126 @@
+﻿  HW2.cpp
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(2): error C2065: 'filename': undeclared identifier
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(2): error C2065: 'width': undeclared identifier
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(2): error C2065: 'height': undeclared identifier
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(2): error C2065: 'SOIL_LOAD_RGB': undeclared identifier
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(2): error C3861: 'SOIL_load_image': identifier not found
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(4): error C2065: 'GL_TEXTURE_2D': undeclared identifier
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(4): error C2065: 'textureID': undeclared identifier
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(4): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(4): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+  C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(4): note: The initializer contains too many elements
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(5): error C2065: 'GL_TEXTURE_2D': undeclared identifier
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(5): error C2065: 'GL_RGB': undeclared identifier
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(5): error C2065: 'width': undeclared identifier
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(5): error C2065: 'height': undeclared identifier
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(5): error C2065: 'GL_UNSIGNED_BYTE': undeclared identifier
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(5): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+  C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(5): note: The initializer contains too many elements
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(6): error C2065: 'GL_TEXTURE_2D': undeclared identifier
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(7): error C2065: 'GL_TEXTURE_2D': undeclared identifier
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(7): error C2065: 'GL_TEXTURE_WRAP_S': undeclared identifier
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(7): error C2065: 'GL_REPEAT': undeclared identifier
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(7): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+  C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(7): note: The initializer contains too many elements
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(8): error C2065: 'GL_TEXTURE_2D': undeclared identifier
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(8): error C2065: 'GL_TEXTURE_WRAP_T': undeclared identifier
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(8): error C2065: 'GL_REPEAT': undeclared identifier
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(8): error C2374: 'glTexParameteri': redefinition; multiple initialization
+  C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(7): note: see declaration of 'glTexParameteri'
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(8): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+  C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(8): note: The initializer contains too many elements
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(9): error C2065: 'GL_TEXTURE_2D': undeclared identifier
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(9): error C2065: 'GL_TEXTURE_MIN_FILTER': undeclared identifier
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(9): error C2065: 'GL_LINEAR_MIPMAP_LINEAR': undeclared identifier
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(9): error C2374: 'glTexParameteri': redefinition; multiple initialization
+  C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(7): note: see declaration of 'glTexParameteri'
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(9): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+  C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(9): note: The initializer contains too many elements
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(10): error C2065: 'GL_TEXTURE_2D': undeclared identifier
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(10): error C2065: 'GL_TEXTURE_MAG_FILTER': undeclared identifier
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(10): error C2065: 'GL_LINEAR': undeclared identifier
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(10): error C2374: 'glTexParameteri': redefinition; multiple initialization
+  C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(7): note: see declaration of 'glTexParameteri'
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(10): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+  C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(10): note: The initializer contains too many elements
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(11): error C2065: 'GL_TEXTURE_2D': undeclared identifier
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(11): error C2374: 'glBindTexture': redefinition; multiple initialization
+  C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(4): note: see declaration of 'glBindTexture'
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(11): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+  C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(11): note: The initializer contains too many elements
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(12): error C2440: 'initializing': cannot convert from 'unsigned char *' to 'int'
+  C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(12): note: There is no context in which this conversion is possible
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(16): error C2065: 'i': undeclared identifier
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(16): error C2065: 'speed': undeclared identifier
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(17): error C2065: 'scale': undeclared identifier
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(18): error C2065: 'PI': undeclared identifier
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(18): error C3861: 'sin': identifier not found
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(19): error C2065: 'PI': undeclared identifier
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(19): error C3861: 'cos': identifier not found
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(20): error C2653: 'glm': is not a class or namespace name
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(20): error C3861: 'vec3': identifier not found
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(20): error C3861: 'translate': identifier not found
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(23): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(24): error C2065: 'gl_Position': undeclared identifier
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(24): error C2065: 'projection': undeclared identifier
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(24): error C2065: 'view': undeclared identifier
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(24): error C2065: 'position': undeclared identifier
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(24): error C3861: 'vec4': identifier not found
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(25): error C2065: 'FragPos': undeclared identifier
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(25): error C2065: 'position': undeclared identifier
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(25): error C3861: 'vec4': identifier not found
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(25): error C3861: 'vec3': identifier not found
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(26): error C2065: 'Normal': undeclared identifier
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(26): error C3861: 'inverse': identifier not found
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(26): error C3861: 'transpose': identifier not found
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(26): error C3861: 'mat3': identifier not found
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(26): error C2065: 'normal': undeclared identifier
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(27): error C2065: 'TexCoords': undeclared identifier
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(27): error C2065: 'texCoords': undeclared identifier
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(30): error C2065: 'Camera_Movement': undeclared identifier
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(30): error C2146: syntax error: missing ')' before identifier 'direction'
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(30): error C2143: syntax error: missing ';' before '{'
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(30): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(47): error C2653: 'glm': is not a class or namespace name
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(47): error C2065: 'vec3': undeclared identifier
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(47): error C2146: syntax error: missing ')' before identifier 'position'
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(47): error C2143: syntax error: missing ';' before '{'
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(47): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(52): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(53): error C2039: 'cout': is not a member of 'std'
+  C:\Users\asus\source\repos\HW2\HW2\predefined C++ types (compiler internal)(256): note: see declaration of 'std'
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(53): error C2065: 'cout': undeclared identifier
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(53): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(53): error C2039: 'endl': is not a member of 'std'
+  C:\Users\asus\source\repos\HW2\HW2\predefined C++ types (compiler internal)(256): note: see declaration of 'std'
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(53): error C2065: 'endl': undeclared identifier
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(57): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(58): error C2039: 'cout': is not a member of 'std'
+  C:\Users\asus\source\repos\HW2\HW2\predefined C++ types (compiler internal)(256): note: see declaration of 'std'
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(58): error C2065: 'cout': undeclared identifier
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(58): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(58): error C2039: 'endl': is not a member of 'std'
+  C:\Users\asus\source\repos\HW2\HW2\predefined C++ types (compiler internal)(256): note: see declaration of 'std'
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(58): error C2065: 'endl': undeclared identifier
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(61): error C2065: 'GLFWwindow': undeclared identifier
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(61): error C2065: 'window': undeclared identifier
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(61): error C2062: type 'double' unexpected
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(61): error C2143: syntax error: missing ';' before '{'
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(61): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(78): error C2065: 'GLfloat': undeclared identifier
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(78): error C2146: syntax error: missing ')' before identifier 'xOffset'
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(78): error C2143: syntax error: missing ';' before '{'
+C:\Users\asus\source\repos\HW2\HW2\HW2.cpp(78): error C2447: '{': missing function header (old-style formal list?)
